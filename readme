@@ -1,0 +1,9 @@
+// activate venv
+source .venv/bin/activate
+
+// install required packages
+python -m pip install -r requirements.txt
+
+// run bot
+python -u src/main.py
+
